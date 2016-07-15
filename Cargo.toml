@@ -1,0 +1,7 @@
+[dependencies]
+wayland-client = "0.4.3"
+
+[package]
+name = "MorlockWM"
+version = "0.0.1"
+authors = ["Austin DeLauney adelauney96@outlook.com"]
